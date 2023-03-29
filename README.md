@@ -53,6 +53,13 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
   
   + [Web Designer Page](https://igorvinson.github.io/site_for_designer/home.html)
   + [Pizza Page](https://website-example-pizza.vercel.app/?currentPages=1&activeCategory=0&sortParam=0)
+  + [Marketing Page](https://igorvinson.github.io/web-site-15/)
+  + [Tailwind Page](https://website-tailwind-six.vercel.app/)
+  + [Parser page](https://website-example-blog-9dia1kr0i-igorvinson.vercel.app/)
+  + [Image parser](https://igorvinson.github.io/serach-img/)
+
+
+
   + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
   + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
   + [Color switcher, Countdown timer, Promise generator](https://github.com/Yana16/goit-js-hw-09)
