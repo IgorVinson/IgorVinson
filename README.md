@@ -1,5 +1,5 @@
-:toolbox: **SKILLS and TOOLS**
 
+![experience component](https://readme-components.vercel.app/api?component=experience&company=freelance&role=Fullstack%20web%20developer&duration=12m&location=North%20Carolina&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
