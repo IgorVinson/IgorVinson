@@ -56,8 +56,8 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 
 <h3>Contacts: </h3>
 
-  + [Send request an email](mailto:igorvinson@gmail.com?subject=Subject%20line&body=Email%20body)
-  + [Visit LinkedIn profile](https://www.linkedin.com/in/vins-igor/)
+   [Send request an email](mailto:igorvinson@gmail.com?subject=Subject%20line&body=Email%20body) </br>
+   [Visit LinkedIn profile](https://www.linkedin.com/in/vins-igor/)
 
 
   
