@@ -58,22 +58,6 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
   + [Parser page](https://website-example-blog-9dia1kr0i-igorvinson.vercel.app/)
   + [Image parser](https://igorvinson.github.io/serach-img/)
 
-
-
-  + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
-  + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
-  + [Color switcher, Countdown timer, Promise generator](https://github.com/Yana16/goit-js-hw-09)
-  + [Search Country](https://github.com/Yana16/goit-js-hw-10)
-  + [Search Image](https://github.com/Yana16/goit-js-hw-11)
-  + [Components](https://github.com/Yana16/goit-react-hw-01-components)
-  + [Feedback](https://github.com/Yana16/goit-react-hw-02-feedback)
-  + [Image Finder](https://github.com/Yana16/goit-react-hw-03-image-finder)
-  + [Search Images and Photos](https://github.com/Yana16/goit-react-hw-04-images)
-  + [Phonebook](https://github.com/Yana16/goit-react-hw-08-phonebook)
-  + [Movie](https://github.com/Yana16/goit-react-hw-05-movie)
-  + [Filmoteka](https://github.com/Yana16/Project-Filmoteka)
-  + [IceCream](https://github.com/Yana16/IceCream)
-
 <h3>Contacts: </h3>
 
    [Send request an email](mailto:igorvinson@gmail.com?subject=Subject%20line&body=Email%20body) </br>
