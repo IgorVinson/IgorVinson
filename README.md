@@ -51,16 +51,14 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
   
 <h3>My latest projects: </h3>
   
-  
   + [Pizza Page](https://website-example-pizza.vercel.app/?currentPages=1&activeCategory=0&sortParam=0)  
   + [Web Designer Page](https://igorvinson.github.io/site_for_designer/home.html)
   + [Carousel gallery on React without any NPM](https://react-mui-playground-hytano7k0-igorvinson.vercel.app/)
-  + [Image parser](https://igorvinson.github.io/serach-img/)
-  + [Bussines Page](https://website-tailwind-six.vercel.app/)
-  + [Parser page](https://website-example-blog-9dia1kr0i-igorvinson.vercel.app/)
   + [Marketing Page](https://igorvinson.github.io/web-site-15/)
+  + [Bussines Page](https://website-tailwind-six.vercel.app/)
+  + [Image parser](https://igorvinson.github.io/serach-img/)
+  + [Parser page](https://website-example-blog-9dia1kr0i-igorvinson.vercel.app/)
   
-
 <h3>Contacts: </h3>
 
    [Send request an email](mailto:igorvinson@gmail.com?subject=Subject%20line&body=Email%20body) </br>
