@@ -52,7 +52,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 <h3>My latest projects: </h3>
   
   + [Web Designer Page](https://igorvinson.github.io/site_for_designer/home.html)
-  + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
+  + [Pizza Page](https://website-example-pizza.vercel.app/?currentPages=1&activeCategory=0&sortParam=0)
   + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
   + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
   + [Color switcher, Countdown timer, Promise generator](https://github.com/Yana16/goit-js-hw-09)
