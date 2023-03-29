@@ -1,5 +1,9 @@
 
-![experience component](https://readme-components.vercel.app/api?component=experience&company=freelance&role=Fullstack%20web%20developer&duration=12m&location=North%20Carolina&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+<h2>Hello! Glad to see you on my profile!</h2>
+
+I'm Igor Vinson, a software engineer with <b> lots of experience</b> building great web applications. I love coding and helping people make their <b> businesses better.</b> If you need any help with your project or business, <b> feel free to get in touch. Let's work together to achieve your goals!</b>
+
+ <h3>What technologies do I work with?</h3>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
@@ -31,10 +35,8 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
-
   
-  
-:telescope: **PROJECTS**
+<h3>My latest projects: </h3>
   
   + [WebStudio](https://github.com/Yana16/goit-markup-hw-07)
   + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
@@ -52,12 +54,8 @@
   + [Filmoteka](https://github.com/Yana16/Project-Filmoteka)
   + [IceCream](https://github.com/Yana16/IceCream)
 
-:wink: **FOLLOW ME**
+<h3>Contacts: </h3>
 
-  + [LinkedIn]()
-  + [Discord]()
-
-:eyes: **CONTACTS**
-  + :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
-  + :pager: [Telegram]()
+  + :e-mail: [igorvinson@gmail.com](igorvinson@gmail.com)
+  + [LinkedIn](https://www.linkedin.com/in/vins-igor/)
   
