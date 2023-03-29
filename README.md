@@ -51,7 +51,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
   
 <h3>My latest projects: </h3>
   
-  + [WebStudio](https://github.com/Yana16/goit-markup-hw-07)
+  + [WebDesigner website](https://igorvinson.github.io/site_for_designer/home.html)
   + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
   + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
   + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
