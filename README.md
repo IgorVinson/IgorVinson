@@ -5,7 +5,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 
  <h3>What technologies do I work with?</h3>
  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20is%20a%20markup%20language,as%20the%20HTML%20Living%20Standard.">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a>  
   
