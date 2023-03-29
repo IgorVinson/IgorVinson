@@ -5,7 +5,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 
  <h3>What technologies do I work with?</h3>
  
-<a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20is%20a%20markup%20language,as%20the%20HTML%20Living%20Standard.">
+<a href="https://github.com/IgorVinson/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a>  
   
@@ -13,39 +13,39 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>  
   
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=15d8fe">  
 </a>
   
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Java&svgfill=FFFFFF">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Spring&svgfill=508238">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/IgorVinson/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
   
