@@ -52,7 +52,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 <h3>My latest projects: </h3>
   
   + [Airbnb clone](https://rent-website-4orq9epic-igorvinson.vercel.app/) </br>
-     Next, React, Tailwind, Prisma, MongoDB, NextAuth </br>
+     Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 </br>
      `Testing data : user: test@email.com; password: 123456;` </br>
      `You would use your social accaunt to login or testing data`
   + [Facebook clone](bookface-client.vercel.app) </br>
