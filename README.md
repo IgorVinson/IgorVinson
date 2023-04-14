@@ -52,11 +52,13 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
 <h3>My latest projects: </h3>
   
   + [Airbnb clone](https://rent-website-4orq9epic-igorvinson.vercel.app/) </br>
-     Next, React, Tailwind, Prisma, MongoDB, NextAuth 
+     Next, React, Tailwind, Prisma, MongoDB, NextAuth </br>
+     `Testing data : user: test@email.com; password: 123456;` </br>
+     `You would use your social accaunt to login or testing data`
   + [Facebook clone](bookface-client.vercel.app) </br>
      React, MUI, MongoDB, JWT </br>
-     Testing data : <span style="color black">test@email.com;</span> password: 123456; </br>
-     <span style="color:red">Please wait a few seconds while logging in. The server needs a couple of seconds to wake up.</span>
+     `Testing data : user: test@email.com; password: 123456;` </br>
+     `Please wait a few seconds while logging in. The server needs a couple of seconds to wake up`
   + [Nike gallery](https://igorvinson.github.io/nike_paralise_gallery/) </br>
      HTML, CSS, JavaScript
   + [Web Designer Page](https://igorvinson.github.io/site_for_designer/home.html)
