@@ -56,7 +56,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
      `Testing data : user: test@email.com; password: 123456;` </br>
      `You would use your social accaunt to login or testing data`
   + [Facebook clone](bookface-client.vercel.app) </br>
-     React, MUI, MongoDB, JWT </br>
+     COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI </br>
      `Testing data : user: test@email.com; password: 123456;` </br>
      `Please wait a few seconds while logging in. The server needs a couple of seconds to wake up`
   + [Nike gallery](https://igorvinson.github.io/nike_paralise_gallery/) </br>
