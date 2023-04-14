@@ -53,6 +53,8 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
   
   + [Airbnb clone](https://rent-website-4orq9epic-igorvinson.vercel.app/) </br>
      Next, React, Tailwind, Prisma, MongoDB, NextAuth 
+  + [Facebook clone](bookface-client-b5h6d2lkp-igorvinson.vercel.app) </br>
+     React, MUI, MongoDB, JWT 
   + [Nike gallery](https://igorvinson.github.io/nike_paralise_gallery/) </br>
      HTML, CSS, JavaScript
   + [Web Designer Page](https://igorvinson.github.io/site_for_designer/home.html)
