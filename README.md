@@ -55,7 +55,7 @@ I'm Igor Vinson, a software engineer with <b> lots of experience</b> building gr
      Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 </br>
      `Testing data : user: test@email.com; password: 123456;` </br>
      `You would use your social accaunt to login or testing data`
-  + [Facebook clone](bookface-client.vercel.app) </br>
+  + [Facebook clone](https://bookface-client.vercel.app) </br>
      COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI </br>
      `Testing data : user: test@email.com; password: 123456;` </br>
      `Please wait a few seconds while logging in. The server needs a couple of seconds to wake up`
