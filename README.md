@@ -1,7 +1,7 @@
 
 <h2>Hello! Glad to see you on my profile!</h2>
 
-I'm Igor Vinson, a software engineer with <b> lots of experience</b> building great web applications. I love coding and helping people make their <b> businesses better.</b> If you need any help with your project or business, feel free to <b>get in touch</b> with me at the <b> contacts at the bottom </b> of this page.Let's work together to achieve <b>your goals!</b>
+I'm Igor Vinson, a software engineer with <b> lots of experience</b> building great web applications. I love coding and helping people make their <b> businesses better.</b>
 
  <h3>What technologies do I work with?</h3>
  
