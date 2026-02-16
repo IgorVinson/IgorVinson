@@ -2,12 +2,13 @@
 
 **Full-Stack Developer** @ [Vertex](https://vertexinc.com) · Based in the USA
 
-I build web applications with modern JavaScript/TypeScript stacks — from interactive frontends to scalable backend services.
+I build web applications and AI-powered tools with modern JavaScript/TypeScript stacks — from interactive frontends to scalable backend services.
 
 ## 🛠 Tech Stack
 
-**Frontend:** React · Next.js · React Native · Angular · TypeScript  
-**Backend:** Node.js · Express · REST APIs · Spring  
+**Frontend:** React · Next.js · React Native · TypeScript  
+**Backend:** Node.js · Express · REST APIs  
+**AI/ML:** OpenAI · LangChain · AI Agents · Prompt Engineering  
 **Data:** PostgreSQL · MongoDB · Firebase  
 **Tools:** Git · Docker · CI/CD · Linux
 
