@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | React • Next.js • Node.js • AI Integration
 
-I'm a passionate full-stack developer originally from Ukraine, now based in the US since 2022. After completing an intensive bootcamp (2022-2023), I've been building real-world applications that solve practical problems. Currently working as a low voltage network technician while actively seeking full-stack developer opportunities.
+I'm a passionate full-stack developer originally from Ukraine, now based in the US since 2022. After completing an intensive bootcamp (2022-2023), I've been building real-world applications that solve practical problems. 
 
 I believe in building tools that make people's lives easier — from automation scripts that save hours of manual work to AI-powered applications that simplify complex tasks.
 
